@@ -1,5 +1,4 @@
 # CatchStar
- cococ creator,typescript,golang
 
  - 基于cocos creator官方教程编写的联网对战实例,所有素材均来自于官方资源  
  - 客户端脚本由TypeScript编写  
